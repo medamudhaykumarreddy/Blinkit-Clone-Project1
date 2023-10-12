@@ -270,7 +270,7 @@ img {
 
 .slice:hover{
     background-color:green;
-    scale:1.0px;
+    scale:1.0;
 }
 
 
